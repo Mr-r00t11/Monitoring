@@ -70,118 +70,118 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
         etiqueta2 = tk.Label(root, text='SMO', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta2.place(x=0, y=38, width=215, height=25)
-        etiqueta2.bind("<Button-1>", lambda e: callback("https://10.164.210.29/fsum/login?service=https%3A%2F%2F10.164.210.29%2Fassets%2Findex"))
+        etiqueta2.bind("<Button-1>", lambda e: callback("https://10.164.210.29/"))
 
         etiqueta3 = tk.Label(root, text='SMO-DR ', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta3.place(x=0, y=63, width=215, height=25)
-        etiqueta3.bind("<Button-1>", lambda e: callback("https://10.164.210.38/fsum/login?service=https%3A%2F%2F10.164.210.38%2Fassets%2Findex"))
+        etiqueta3.bind("<Button-1>", lambda e: callback("https://10.164.210.38/"))
 
         etiqueta4 = tk.Label(root, text='CHALCO', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta4.place(x=0, y=88, width=215, height=25)
-        etiqueta4.bind("<Button-1>", lambda e: callback("https://10.157.2.30/fsum/login?service=https%3A%2F%2F10.157.2.30%2Fassets%2Findex"))
+        etiqueta4.bind("<Button-1>", lambda e: callback("https://10.157.2.30/"))
 
         etiqueta5 = tk.Label(root, text='CHALCO-DR', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta5.place(x=0, y=113, width=215, height=25)
-        etiqueta5.bind("<Button-1>", lambda e: callback("https://10.157.2.38/fsum/login?service=https%3A%2F%2F10.157.2.38%2Fassets%2Findex"))
+        etiqueta5.bind("<Button-1>", lambda e: callback("https://10.157.2.38/"))
 
         etiqueta6 = tk.Label(root, text='SNT BARBARA', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta6.place(x=0, y=138, width=215, height=25)
-        etiqueta6.bind("<Button-1>", lambda e: callback("https://10.164.234.30/fsum/login?service=https%3A%2F%2F10.164.234.30%2Fassets%2Findex"))
+        etiqueta6.bind("<Button-1>", lambda e: callback("https://10.164.234.30/"))
 
         etiqueta7 = tk.Label(root, text='SNT BARBARA-DR', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta7.place(x=0, y=163, width=215, height=25)
-        etiqueta7.bind("<Button-1>", lambda e: callback("https://10.164.234.38/fsum/login?service=https%3A%2F%2F10.164.234.38%2Fassets%2Findex"))
+        etiqueta7.bind("<Button-1>", lambda e: callback("https://10.164.234.38/"))
 
         etiqueta8 = tk.Label(root, text='CUAUTITLAN', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta8.place(x=0, y=188, width=215, height=25)
-        etiqueta8.bind("<Button-1>", lambda e: callback("https://10.164.243.30/fsum/login?service=https%3A%2F%2F10.164.243.30%2Fassets%2Findex"))
+        etiqueta8.bind("<Button-1>", lambda e: callback("https://10.164.243.30/"))
 
         etiqueta9 = tk.Label(root, text='CUAUTITLAN-DR', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta9.place(x=0, y=213, width=215, height=25)
-        etiqueta9.bind("<Button-1>", lambda e: callback("https://10.164.243.38/fsum/login?service=https%3A%2F%2F10.164.243.38%2Fassets%2Findex"))
+        etiqueta9.bind("<Button-1>", lambda e: callback("https://10.164.243.38/"))
 
         etiqueta10 = tk.Label(root, text='MANAGER', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta10.place(x=0, y=238, width=215, height=25)
-        etiqueta10.bind("<Button-1>", lambda e: callback("https://148.250.80.219/fsum/login?service=https%3A%2F%2F148.250.80.219%2Fassets%2Findex"))
+        etiqueta10.bind("<Button-1>", lambda e: callback("https://148.250.80.219/"))
 
         etiqueta11 = tk.Label(root, text='AZCAPO', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta11.place(x=0, y=263, width=215, height=25)
-        etiqueta11.bind("<Button-1>", lambda e: callback("https://148.250.31.133/fsum/login?service=https%3A%2F%2F148.250.31.133%2Fassets%2Findex"))
+        etiqueta11.bind("<Button-1>", lambda e: callback("https://148.250.31.133/"))
 
         etiqueta12 = tk.Label(root, text='AZCAPO-DR', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta12.place(x=0, y=288, width=215, height=25)
-        etiqueta12.bind("<Button-1>", lambda e: callback("https://148.250.31.134/fsum/login?service=https%3A%2F%2F148.250.31.134%2Fassets%2Findex"))
+        etiqueta12.bind("<Button-1>", lambda e: callback("https://148.250.31.134/"))
 
         etiqueta13 = tk.Label(root, text='TOREO', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta13.place(x=0, y=313, width=215, height=25)
-        etiqueta13.bind("<Button-1>", lambda e: callback("https://148.250.181.95/fsum/login?service=https%3A%2F%2F148.250.181.95%2Fassets%2Findex"))
+        etiqueta13.bind("<Button-1>", lambda e: callback("https://148.250.181.95/"))
 
         etiqueta14 = tk.Label(root, text='Toreo-DR', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta14.place(x=0, y=338, width=215, height=25)
-        etiqueta14.bind("<Button-1>", lambda e: callback("https://148.250.181.115/fsum/login?service=https%3A%2F%2F148.250.181.115%2Fassets%2Findex"))
+        etiqueta14.bind("<Button-1>", lambda e: callback("https://148.250.181.115/"))
 
         #PEERS AND GIGA
         etiqueta15 = tk.Label(root, text='GIGA AZC', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta15.place(x=0, y=363, width=215, height=25)
-        etiqueta15.bind("<Button-1>", lambda e: callback("https://gigamonazcsec.mx.wal-mart.com/"))
+        etiqueta15.bind("<Button-1>", lambda e: callback("https://gigamonazcsec/"))
 
         etiqueta16 = tk.Label(root, text='GIGA TOREO', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta16.place(x=0, y=388, width=215, height=25)
-        etiqueta16.bind("<Button-1>", lambda e: callback("https://gigamontorsec.mx.wal-mart.com/"))
+        etiqueta16.bind("<Button-1>", lambda e: callback("https://gigamontorsec/"))
 
         etiqueta17 = tk.Label(root, text='TRIPWIRE', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta17.place(x=0, y=413, width=215, height=25)
-        etiqueta17.bind("<Button-1>", lambda e: callback("https://mxnts1167.mx.wal-mart.com/console/j_security_check/"))
+        etiqueta17.bind("<Button-1>", lambda e: callback("https://gigamontorsec/"))
 
         etiqueta18 = tk.Label(root, text='SPLUNK AZC', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta18.place(x=0, y=438, width=215, height=25)
-        etiqueta18.bind("<Button-1>", lambda e: callback("https://splunkazcsec.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/"))
+        etiqueta18.bind("<Button-1>", lambda e: callback("https://gigamontorsec/"))
 
         etiqueta19 = tk.Label(root, text='SPLUNK TOREO', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta19.place(x=0, y=463, width=215, height=25)
-        etiqueta19.bind("<Button-1>", lambda e: callback("https://splunktorsec.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/"))
+        etiqueta19.bind("<Button-1>", lambda e: callback("https://gigamontorsec/"))
 
         etiqueta20 = tk.Label(root, text='MASTER NODE', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta20.place(x=0, y=488, width=215, height=25)
-        etiqueta20.bind("<Button-1>", lambda e: callback("https://oser503718.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/"))
+        etiqueta20.bind("<Button-1>", lambda e: callback("https://gigamontorsec/"))
 
         etiqueta21 = tk.Label(root, text='PEER NODE 1', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta21.place(x=0, y=513, width=215, height=25)
-        etiqueta21.bind("<Button-1>", lambda e: callback("https://oser503719.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/"))
+        etiqueta21.bind("<Button-1>", lambda e: callback("https://gigamontorsec/"))
 
         etiqueta22 = tk.Label(root, text='PEER NODE 2', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta22.place(x=0, y=538, width=215, height=25)
-        etiqueta22.bind("<Button-1>", lambda e: callback("https://oser503720.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/"))
+        etiqueta22.bind("<Button-1>", lambda e: callback("https://gigamontorsec/"))
 
         etiqueta23 = tk.Label(root, text='PEER NODE 3', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta23.place(x=0, y=563, width=215, height=25)
-        etiqueta23.bind("<Button-1>", lambda e: callback("https://oser503721.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/"))
+        etiqueta23.bind("<Button-1>", lambda e: callback("https://gigamontorsec/"))
 
         etiqueta24 = tk.Label(root, text='SEARCH HEAD', fg='White',
                         bg='steel blue', font=("Eras Demi ITC", 17, 'bold'))
         etiqueta24.place(x=0, y=588, width=215, height=25)
-        etiqueta24.bind("<Button-1>", lambda e: callback("https://oser503722.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/"))
+        etiqueta24.bind("<Button-1>", lambda e: callback("https://gigamontorsec/"))
 
         def callback(url):
                 webbrowser.open_new(url)
@@ -359,8 +359,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute2 == 1:
                                 try:
-                                        r_g = requests.get('https://10.164.210.29/fsum/login?service=https%3A%2F%2F10.164.210.29%2Fassets%2Findex', verify=False)
-                                        url = (b"https://10.164.210.29/fsum/login?service=https%3A%2F%2F10.164.210.29%2Fassets%2Findex")
+                                        r_g = requests.get('https://10.164.210.29/', verify=False)
+                                        url = (b"https://10.164.210.29")
                                         if r_g.status_code == 200:
                                                 etiqueta2.config(bg='Green')
                                                 mute2 = 0
@@ -371,8 +371,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://10.164.210.29/fsum/login?service=https%3A%2F%2F10.164.210.29%2Fassets%2Findex', verify=False)
-                                        url = (b"https://10.164.210.29/fsum/login?service=https%3A%2F%2F10.164.210.29%2Fassets%2Findex")
+                                        r_g = requests.get('https://10.164.210.29/', verify=False)
+                                        url = (b"https://10.164.210.29/fsum/")
                                         if r_g.status_code == 200:
                                                 etiqueta2.config(bg='Green')
                                                 
@@ -389,7 +389,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta2.config(bg='red4')
-                                        url = (b"https://10.164.210.29/fsum/login?service=https%3A%2F%2F10.164.210.29%2Fassets%2Findex")
+                                        url = (b"https://10.164.210.29/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -405,8 +405,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute3 == 1:
                                 try:
-                                        r_g = requests.get('https://10.164.210.38/fsum/login?service=https%3A%2F%2F10.164.210.38%2Fassets%2Findex', verify=False)
-                                        url = (b"https://10.164.210.38/fsum/login?service=https%3A%2F%2F10.164.210.38%2Fassets%2Findex")
+                                        r_g = requests.get('https://10.164.210.38/', verify=False)
+                                        url = (b"https://10.164.210.38/")
                                         if r_g.status_code == 200:
                                                 etiqueta3.config(bg='Green')
                                                 mute3 = 0
@@ -417,8 +417,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://10.164.210.38/fsum/login?service=https%3A%2F%2F10.164.210.38%2Fassets%2Findex', verify=False)
-                                        url = (b"https://10.164.210.38/fsum/login?service=https%3A%2F%2F10.164.210.38%2Fassets%2Findex")
+                                        r_g = requests.get('https://10.164.210.38/', verify=False)
+                                        url = (b"https://10.164.210.38/")
                                         if r_g.status_code == 200:
                                                 etiqueta3.config(bg='Green')
                                                 
@@ -435,7 +435,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta3.config(bg='red4')
-                                        url = (b"https://10.164.210.38/fsum/login?service=https%3A%2F%2F10.164.210.38%2Fassets%2Findex")
+                                        url = (b"https://10.164.210.38/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -451,8 +451,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute4 == 1:
                                 try:
-                                        r_g = requests.get('https://10.157.2.30/fsum/login?service=https%3A%2F%2F10.157.2.30%2Fassets%2Findex', verify=False)
-                                        url = (b"https://10.157.2.30/fsum/login?service=https%3A%2F%2F10.157.2.30%2Fassets%2Findex")
+                                        r_g = requests.get('https://10.157.2.30/', verify=False)
+                                        url = (b"https://10.157.2.30/fsum/")
                                         if r_g.status_code == 200:
                                                 etiqueta4.config(bg='Green')
                                                 mute4 = 0
@@ -463,8 +463,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://10.157.2.30/fsum/login?service=https%3A%2F%2F10.157.2.30%2Fassets%2Findex', verify=False)
-                                        url = (b"https://10.157.2.30/fsum/login?service=https%3A%2F%2F10.157.2.30%2Fassets%2Findex")
+                                        r_g = requests.get('https://10.157.2.30/', verify=False)
+                                        url = (b"https://10.157.2.30/fsum/")
                                         if r_g.status_code == 200:
                                                 etiqueta4.config(bg='Green')
                                                 
@@ -481,7 +481,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta4.config(bg='red4')
-                                        url = (b"https://10.157.2.30/fsum/login?service=https%3A%2F%2F10.157.2.30%2Fassets%2Findex")
+                                        url = (b"https://10.157.2.30/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -497,8 +497,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute5 == 1:
                                 try:
-                                        r_g = requests.get('https://10.157.2.38/fsum/login?service=https%3A%2F%2F10.157.2.38%2Fassets%2Findex', verify=False)
-                                        url = (b"https://10.157.2.38/fsum/login?service=https%3A%2F%2F10.157.2.38%2Fassets%2Findex")
+                                        r_g = requests.get('https://10.157.2.38/', verify=False)
+                                        url = (b"https://10.157.2.38/")
                                         if r_g.status_code == 200:
                                                 etiqueta5.config(bg='Green')
                                                 mute5 = 0
@@ -509,8 +509,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://10.157.2.38/fsum/login?service=https%3A%2F%2F10.157.2.38%2Fassets%2Findex', verify=False)
-                                        url = (b"https://10.157.2.38/fsum/login?service=https%3A%2F%2F10.157.2.38%2Fassets%2Findex")
+                                        r_g = requests.get('https://10.157.2.38/', verify=False)
+                                        url = (b"https://10.157.2.38/")
                                         if r_g.status_code == 200:
                                                 etiqueta5.config(bg='Green')
                                                 alive = 'Up'
@@ -526,7 +526,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta5.config(bg='red4')
-                                        url = (b"https://10.157.2.38/fsum/login?service=https%3A%2F%2F10.157.2.38%2Fassets%2Findex")
+                                        url = (b"https://10.157.2.38/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -542,8 +542,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute6 == 1:
                                 try:
-                                        r_g = requests.get('https://10.164.234.30/fsum/login?service=https%3A%2F%2F10.164.234.30%2Fassets%2Findex', verify=False)
-                                        url = (b"https://10.164.234.30/fsum/login?service=https%3A%2F%2F10.164.234.30%2Fassets%2Findex")
+                                        r_g = requests.get('https://10.164.234.30/', verify=False)
+                                        url = (b"https://10.164.234.30/")
                                         if r_g.status_code == 200:
                                                 etiqueta6.config(bg='Green')
                                                 mute6 = 0
@@ -554,8 +554,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://10.164.234.30/fsum/login?service=https%3A%2F%2F10.164.234.30%2Fassets%2Findex', verify=False)
-                                        url = (b"https://10.164.234.30/fsum/login?service=https%3A%2F%2F10.164.234.30%2Fassets%2Findex")
+                                        r_g = requests.get('https://10.164.234.30/', verify=False)
+                                        url = (b"https://10.164.234.30/")
                                         if r_g.status_code == 200:
                                                 etiqueta6.config(bg='Green')
                                                 
@@ -572,7 +572,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta6.config(bg='red4')
-                                        url = (b"https://10.164.234.30/fsum/login?service=https%3A%2F%2F10.164.234.30%2Fassets%2Findex")
+                                        url = (b"https://10.164.234.30/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -588,8 +588,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute7 == 1:
                                 try:
-                                        r_g = requests.get('https://10.164.234.38/fsum/login?service=https%3A%2F%2F10.164.234.38%2Fassets%2Findex', verify=False)
-                                        url = (b"https://10.164.234.38/fsum/login?service=https%3A%2F%2F10.164.234.38%2Fassets%2Findex")
+                                        r_g = requests.get('https://10.164.234.38/', verify=False)
+                                        url = (b"https://10.164.234.38/")
                                         if r_g.status_code == 200:
                                                 etiqueta7.config(bg='Green')
                                                 mute7 = 0
@@ -600,8 +600,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://10.164.234.38/fsum/login?service=https%3A%2F%2F10.164.234.38%2Fassets%2Findex', verify=False)
-                                        url = (b"https://10.164.234.38/fsum/login?service=https%3A%2F%2F10.164.234.38%2Fassets%2Findex")
+                                        r_g = requests.get('https://10.164.234.38/', verify=False)
+                                        url = (b"https://10.164.234.38/")
                                         if r_g.status_code == 200:
                                                 etiqueta7.config(bg='Green')
                                                 
@@ -618,7 +618,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta7.config(bg='red4')
-                                        url = (b"https://10.164.234.38/fsum/login?service=https%3A%2F%2F10.164.234.38%2Fassets%2Findex")
+                                        url = (b"https://10.164.234.38/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -634,8 +634,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute8 == 1:
                                 try:
-                                        r_g = requests.get('https://10.164.243.30/fsum/login?service=https%3A%2F%2F10.164.243.30%2Fassets%2Findex', verify=False)
-                                        url = (b"https://10.164.243.30/fsum/login?service=https%3A%2F%2F10.164.243.30%2Fassets%2Findex")
+                                        r_g = requests.get('https://10.164.243.30/', verify=False)
+                                        url = (b"https://10.164.243.30/")
                                         if r_g.status_code == 200:
                                                 etiqueta8.config(bg='Green')
                                                 mute8 = 0
@@ -646,8 +646,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://10.164.243.30/fsum/login?service=https%3A%2F%2F10.164.243.30%2Fassets%2Findex', verify=False)
-                                        url = (b"https://10.164.243.30/fsum/login?service=https%3A%2F%2F10.164.243.30%2Fassets%2Findex")
+                                        r_g = requests.get('https://10.164.243.30/', verify=False)
+                                        url = (b"https://10.164.243.30/")
                                         if r_g.status_code == 200:
                                                 etiqueta8.config(bg='Green')
                                                 
@@ -664,7 +664,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta8.config(bg='red4')
-                                        url = (b"https://10.164.243.30/fsum/login?service=https%3A%2F%2F10.164.243.30%2Fassets%2Findex")
+                                        url = (b"https://10.164.243.30/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -680,8 +680,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute9 == 1:
                                 try:
-                                        r_g = requests.get('https://10.164.243.38/fsum/login?service=https%3A%2F%2F10.164.243.38%2Fassets%2Findex', verify=False)
-                                        url = (b"https://10.164.243.38/fsum/login?service=https%3A%2F%2F10.164.243.38%2Fassets%2Findex")
+                                        r_g = requests.get('https://10.164.243.38/', verify=False)
+                                        url = (b"https://10.164.243.38/")
                                         if r_g.status_code == 200:
                                                 etiqueta9.config(bg='Green')
                                                 mute9 = 0
@@ -692,8 +692,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://10.164.243.38/fsum/login?service=https%3A%2F%2F10.164.243.38%2Fassets%2Findex', verify=False)
-                                        url = (b"https://10.164.243.38/fsum/login?service=https%3A%2F%2F10.164.243.38%2Fassets%2Findex")
+                                        r_g = requests.get('https://10.164.243.38/', verify=False)
+                                        url = (b"https://10.164.243.38/")
                                         if r_g.status_code == 200:
                                                 etiqueta9.config(bg='Green')
                                                 
@@ -710,7 +710,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta9.config(bg='red4')
-                                        url = (b"https://10.164.243.38/fsum/login?service=https%3A%2F%2F10.164.243.38%2Fassets%2Findex")
+                                        url = (b"https://10.164.243.38/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -727,8 +727,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute10 == 1:
                                 try:
-                                        r_g = requests.get('https://148.250.80.219/fsum/login?service=https%3A%2F%2F148.250.80.219%2Fassets%2Findex', verify=False)
-                                        url = (b"https://148.250.80.219/fsum/login?service=https%3A%2F%2F148.250.80.219%2Fassets%2Findex")
+                                        r_g = requests.get('https://148.250.80.219/', verify=False)
+                                        url = (b"https://148.250.80.219/")
                                         if r_g.status_code == 200:
                                                 etiqueta10.config(bg='Green')
                                                 mute10 = 0
@@ -739,8 +739,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://148.250.80.219/fsum/login?service=https%3A%2F%2F148.250.80.219%2Fassets%2Findex', verify=False)
-                                        url = (b"https://148.250.80.219/fsum/login?service=https%3A%2F%2F148.250.80.219%2Fassets%2Findex")
+                                        r_g = requests.get('https://148.250.80.219/', verify=False)
+                                        url = (b"https://148.250.80.219/")
                                         if r_g.status_code == 200:
                                                 etiqueta10.config(bg='Green')
                                                 alive = 'Up'
@@ -756,7 +756,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta10.config(bg='red4')
-                                        url = (b"https://148.250.80.219/fsum/login?service=https%3A%2F%2F148.250.80.219%2Fassets%2Findex")
+                                        url = (b"https://148.250.80.219/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -772,8 +772,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute11 == 1:
                                 try:
-                                        r_g = requests.get('https://148.250.31.133/fsum/login?service=https%3A%2F%2F148.250.31.133%2Fassets%2Findex', verify=False)
-                                        url = (b"https://148.250.31.133/fsum/login?service=https%3A%2F%2F148.250.31.133%2Fassets%2Findex")
+                                        r_g = requests.get('https://148.250.31.133/', verify=False)
+                                        url = (b"https://148.250.31.133/")
                                         if r_g.status_code == 200:
                                                 etiqueta11.config(bg='Green')
                                                 mute11 = 0
@@ -784,8 +784,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://148.250.31.133/fsum/login?service=https%3A%2F%2F148.250.31.133%2Fassets%2Findex', verify=False)
-                                        url = (b"https://148.250.31.133/fsum/login?service=https%3A%2F%2F148.250.31.133%2Fassets%2Findex")
+                                        r_g = requests.get('https://148.250.31.133/', verify=False)
+                                        url = (b"https://148.250.31.133/")
                                         if r_g.status_code == 200:
                                                 etiqueta11.config(bg='Green')
                                                 
@@ -802,7 +802,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta11.config(bg='red4')
-                                        url = (b"https://148.250.31.133/fsum/login?service=https%3A%2F%2F148.250.31.133%2Fassets%2Findex")
+                                        url = (b"https://148.250.31.133/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -818,8 +818,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute12 == 1:
                                 try:
-                                        r_g = requests.get('https://148.250.31.134/fsum/login?service=https%3A%2F%2F148.250.31.134%2Fassets%2Findex', verify=False)
-                                        url = (b"https://148.250.31.134/fsum/login?service=https%3A%2F%2F148.250.31.134%2Fassets%2Findex")
+                                        r_g = requests.get('https://148.250.31.134/', verify=False)
+                                        url = (b"https://148.250.31.134/")
                                         if r_g.status_code == 200:
                                                 etiqueta12.config(bg='Green')
                                                 mute12 = 0
@@ -830,8 +830,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://148.250.31.134/fsum/login?service=https%3A%2F%2F148.250.31.134%2Fassets%2Findex', verify=False)
-                                        url = (b"https://148.250.31.134/fsum/login?service=https%3A%2F%2F148.250.31.134%2Fassets%2Findex")
+                                        r_g = requests.get('https://148.250.31.134/', verify=False)
+                                        url = (b"https://148.250.31.134/")
                                         if r_g.status_code == 200:
                                                 etiqueta12.config(bg='Green')
                                                 
@@ -848,7 +848,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta12.config(bg='red4')
-                                        url = (b"https://148.250.31.134/fsum/login?service=https%3A%2F%2F148.250.31.134%2Fassets%2Findex")
+                                        url = (b"https://148.250.31.134/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -864,8 +864,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute13 == 1:
                                 try:
-                                        r_g = requests.get('https://148.250.181.95/fsum/login?service=https%3A%2F%2F148.250.181.95%2Fassets%2Findex', verify=False)
-                                        url = (b"https://148.250.181.95/fsum/login?service=https%3A%2F%2F148.250.181.95%2Fassets%2Findex")
+                                        r_g = requests.get('https://148.250.181.95/', verify=False)
+                                        url = (b"https://148.250.181.95/")
                                         if r_g.status_code == 200:
                                                 etiqueta13.config(bg='Green')
                                                 mute13 = 0
@@ -876,8 +876,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://148.250.181.95/fsum/login?service=https%3A%2F%2F148.250.181.95%2Fassets%2Findex', verify=False)
-                                        url = (b"https://148.250.181.95/fsum/login?service=https%3A%2F%2F148.250.181.95%2Fassets%2Findex")
+                                        r_g = requests.get('https://148.250.181.95/', verify=False)
+                                        url = (b"https://148.250.181.95/")
                                         if r_g.status_code == 200:
                                                 etiqueta13.config(bg='Green')
                                                 
@@ -894,7 +894,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta13.config(bg='red4')
-                                        url = (b"https://148.250.181.95/fsum/login?service=https%3A%2F%2F148.250.181.95%2Fassets%2Findex")
+                                        url = (b"https://148.250.181.95/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -909,8 +909,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute14 == 1:
                                 try:
-                                        r_g = requests.get('https://148.250.181.115/fsum/login?service=https%3A%2F%2F148.250.181.115%2Fassets%2Findex', verify=False)
-                                        url = (b"https://148.250.181.115/fsum/login?service=https%3A%2F%2F148.250.181.115%2Fassets%2Findex")
+                                        r_g = requests.get('https://148.250.181.115/', verify=False)
+                                        url = (b"https://148.250.181.115/")
                                         if r_g.status_code == 200:
                                                 etiqueta14.config(bg='Green')
                                                 mute14 = 0
@@ -921,8 +921,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://148.250.181.115/fsum/login?service=https%3A%2F%2F148.250.181.115%2Fassets%2Findex', verify=False)
-                                        url = (b"https://148.250.181.115/fsum/login?service=https%3A%2F%2F148.250.181.115%2Fassets%2Findex")
+                                        r_g = requests.get('https://148.250.181.115/', verify=False)
+                                        url = (b"https://148.250.181.115/")
                                         if r_g.status_code == 200:
                                                 etiqueta14.config(bg='Green')
                                                 
@@ -939,7 +939,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta14.config(bg='red4')
-                                        url = (b"https://148.250.181.115/fsum/login?service=https%3A%2F%2F148.250.181.115%2Fassets%2Findex")
+                                        url = (b"https://148.250.181.115/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -956,7 +956,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute15 == 1:
                                 try:
-                                        r_g = requests.get('https://gigamonazcsec.mx.wal-mart.com/', verify=False)
+                                        r_g = requests.get('https://gigamonazcsec/', verify=False)
                                         url = (b"https://gigamonazcsec.mx.wal-mart.com/")
                                         if r_g.status_code == 200:
                                                 etiqueta15.config(bg='Green')
@@ -968,7 +968,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://gigamonazcsec.mx.wal-mart.com/', verify=False)
+                                        r_g = requests.get('https://gigamonazcsec/', verify=False)
                                         url = (b"https://gigamonazcsec.mx.wal-mart.com/")
                                         if r_g.status_code == 200:
                                                 etiqueta15.config(bg='Green')
@@ -986,7 +986,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta15.config(bg='red4')
-                                        url = (b"https://gigamonazcsec.mx.wal-mart.com/")
+                                        url = (b"https://gigamonazcsec/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -1002,7 +1002,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute16 == 1:
                                 try:
-                                        r_g = requests.get('https://gigamontorsec.mx.wal-mart.com/', verify=False)
+                                        r_g = requests.get('https://gigamontorsec/', verify=False)
                                         url = (b"https://gigamontorsec.mx.wal-mart.com/")
                                         if r_g.status_code == 200:
                                                 etiqueta16.config(bg='Green')
@@ -1014,7 +1014,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://gigamontorsec.mx.wal-mart.com/', verify=False)
+                                        r_g = requests.get('https://gigamontorsec/', verify=False)
                                         url = (b"https://gigamontorsec.mx.wal-mart.com/")
                                         if r_g.status_code == 200:
                                                 etiqueta16.config(bg='Green')
@@ -1032,7 +1032,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta16.config(bg='red4')
-                                        url = (b"https://gigamontorsec.mx.wal-mart.com/")
+                                        url = (b"https://gigamontorsec/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -1048,8 +1048,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute17 == 1:
                                 try:
-                                        r_g = requests.get('https://mxnts1167.mx.wal-mart.com/console/j_security_check/', verify=False)
-                                        url = (b"https://mxnts1167.mx.wal-mart.com/console/j_security_check/")
+                                        r_g = requests.get('https://mxnts1167/', verify=False)
+                                        url = (b"https://mxnts1167/")
                                         if r_g.status_code == 200:
                                                 etiqueta17.config(bg='Green')
                                                 mute17 = 0
@@ -1060,8 +1060,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://mxnts1167.mx.wal-mart.com/console/j_security_check/', verify=False)
-                                        url = (b"https://mxnts1167.mx.wal-mart.com/console/j_security_check/")
+                                        r_g = requests.get('https://mxnts1167/', verify=False)
+                                        url = (b"https://mxnts1167/")
                                         if r_g.status_code == 200:
                                                 etiqueta17.config(bg='Green')
                                                 alive = 'Up'
@@ -1077,7 +1077,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta17.config(bg='red4')
-                                        url = (b"https://mxnts1167.mx.wal-mart.com/console/j_security_check/")
+                                        url = (b"https://mxnts1167/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -1093,8 +1093,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute18 == 1:
                                 try:
-                                        r_g = requests.get('https://splunkazcsec.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/', verify=False)
-                                        url = (b"https://splunkazcsec.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        r_g = requests.get('https://mxnts1167/', verify=False)
+                                        url = (b"https://mxnts1167/")
                                         if r_g.status_code == 200:
                                                 etiqueta18.config(bg='Green')
                                                 mute18 = 0
@@ -1105,8 +1105,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://splunkazcsec.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/', verify=False)
-                                        url = (b"https://splunkazcsec.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        r_g = requests.get('https://mxnts1167/', verify=False)
+                                        url = (b"https://mxnts1167/")
                                         if r_g.status_code == 200:
                                                 etiqueta18.config(bg='Green')
                                                 
@@ -1123,7 +1123,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta18.config(bg='red4')
-                                        url = (b"https://splunkazcsec.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        url = (b"https://mxnts1167/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -1139,8 +1139,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute19 == 1:
                                 try:
-                                        r_g = requests.get('https://splunktorsec.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/', verify=False)
-                                        url = (b"https://splunktorsec.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        r_g = requests.get('https://mxnts1167/', verify=False)
+                                        url = (b"https://mxnts1167/")
                                         if r_g.status_code == 200:
                                                 etiqueta19.config(bg='Green')
                                                 mute19 = 0
@@ -1151,8 +1151,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://splunktorsec.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/', verify=False)
-                                        url = (b"https://splunktorsec.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        r_g = requests.get('https://mxnts1167/', verify=False)
+                                        url = (b"https://mxnts1167/")
                                         if r_g.status_code == 200:
                                                 etiqueta19.config(bg='Green')
                                                 
@@ -1169,7 +1169,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta19.config(bg='red4')
-                                        url = (b"https://splunktorsec.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        url = (b"https://mxnts1167/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -1185,8 +1185,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute20 == 1:
                                 try:
-                                        r_g = requests.get('https://oser503718.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/', verify=False)
-                                        url = (b"https://oser503718.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        r_g = requests.get('https://mxnts1167/', verify=False)
+                                        url = (b"https://mxnts1167/")
                                         if r_g.status_code == 200:
                                                 etiqueta20.config(bg='Green')
                                                 mute20 = 0
@@ -1197,8 +1197,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://oser503718.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/', verify=False)
-                                        url = (b"https://oser503718.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        r_g = requests.get('https://mxnts1167/', verify=False)
+                                        url = (b"https://mxnts1167/")
                                         if r_g.status_code == 200:
                                                 etiqueta20.config(bg='Green')
                                                 alive = 'Up'
@@ -1214,7 +1214,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta20.config(bg='red4')
-                                        url = (b"https://oser503718.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        url = (b"https://mxnts1167/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -1231,8 +1231,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute21 == 1:
                                 try:
-                                        r_g = requests.get('https://oser503719.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/', verify=False)
-                                        url = (b"https://oser503719.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        r_g = requests.get('https://mxnts1167/', verify=False)
+                                        url = (b"https://mxnts1167/")
                                         if r_g.status_code == 200:
                                                 etiqueta21.config(bg='Green')
                                                 mute21 = 0
@@ -1243,8 +1243,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://oser503719.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/', verify=False)
-                                        url = (b"https://oser503719.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        r_g = requests.get('https://mxnts1167/', verify=False)
+                                        url = (b"https://mxnts1167/")
                                         if r_g.status_code == 200:
                                                 etiqueta21.config(bg='Green')
                                                 alive = 'Up'
@@ -1260,7 +1260,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta21.config(bg='red4')
-                                        url = (b"https://oser503719.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        url = (b"https://mxnts1167/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -1276,8 +1276,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute22 == 1:
                                 try:
-                                        r_g = requests.get('https://oser503720.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/', verify=False)
-                                        url = (b"https://oser503720.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        r_g = requests.get('https://mxnts1167/', verify=False)
+                                        url = (b"https://mxnts1167/")
                                         if r_g.status_code == 200:
                                                 etiqueta22.config(bg='Green')
                                                 mute22 = 0
@@ -1288,8 +1288,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://oser503720.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/', verify=False)
-                                        url = (b"https://oser503720.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        r_g = requests.get('https://mxnts1167/', verify=False)
+                                        url = (b"https://mxnts1167/")
                                         if r_g.status_code == 200:
                                                 etiqueta22.config(bg='Green')
                                                 alive = 'Up'
@@ -1305,7 +1305,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta22.config(bg='red4')
-                                        url = (b"https://oser503720.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        url = (b"https://mxnts1167/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -1321,7 +1321,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute23 == 1:
                                 try:
-                                        r_g = requests.get('https://oser503721.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/', verify=False)
+                                        r_g = requests.get('https://mxnts1167/', verify=False)
                                         url = (b"https://oser503721.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
                                         if r_g.status_code == 200:
                                                 etiqueta23.config(bg='Green')
@@ -1333,8 +1333,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://oser503721.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/', verify=False)
-                                        url = (b"https://oser503721.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        r_g = requests.get('https://mxnts1167/', verify=False)
+                                        url = (b"https://mxnts1167/")
                                         if r_g.status_code == 200:
                                                 etiqueta23.config(bg='Green')
                                                 alive = 'Up'
@@ -1350,7 +1350,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta23.config(bg='red4')
-                                        url = (b"https://oser503721.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        url = (b"https://mxnts1167/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
@@ -1366,8 +1366,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                         global contador
                         if mute24 == 1:
                                 try:
-                                        r_g = requests.get('https://oser503722.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/', verify=False)
-                                        url = (b"https://oser503722.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        r_g = requests.get('https://mxnts1167/', verify=False)
+                                        url = (b"https://mxnts1167/")
                                         if r_g.status_code == 200:
                                                 etiqueta24.config(bg='Green')
                                                 mute24 = 0
@@ -1378,8 +1378,8 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                         pass
                         else:         
                                 try:
-                                        r_g = requests.get('https://oser503722.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/', verify=False)
-                                        url = (b"https://oser503722.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        r_g = requests.get('https://mxnts1167/', verify=False)
+                                        url = (b"https://mxnts1167/")
                                         if r_g.status_code == 200:
                                                 etiqueta24.config(bg='Green')
                                                 alive = 'Up'
@@ -1395,7 +1395,7 @@ if p == '34072f4123400033b3f1a888e93008ac536b4c72a8e6ad8d8980ca5f8dd780a3':
                                 except requests.exceptions.ConnectionError:
                                         contador = contador + 1
                                         etiqueta24.config(bg='red4')
-                                        url = (b"https://oser503722.mx.wal-mart.com:8000/en-US/account/login?return_to=%2Fen-US%2F/")
+                                        url = (b"https://mxnts1167/")
                                         alive = 'Down'
                                         encrypt = base64.b64encode(url)
                                         date = datetime.datetime.now()
