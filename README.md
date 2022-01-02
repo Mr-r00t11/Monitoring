@@ -12,4 +12,3 @@ Son proyectos escritos en Python con la funcionalidad de detectar una posible fa
 	80 - HTTP
 	443- SSL
 ___
-![](https://github.com/Mr-r00t11/Monitoring/blob/main/img/python.png)
