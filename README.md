@@ -12,3 +12,10 @@ Son proyectos escritos en Python con la funcionalidad de detectar una posible fa
 	80 - HTTP
 	443- SSL
 ___
+
+| Proyect Name  | Description |
+| ------------- | ------------- |
+| [PyMonitor](https://github.com/Mr-r00t11/Monitoring/tree/main/PyMonitor)  | Detecta el servicio HTTP  |
+| [PySSH](https://github.com/Mr-r00t11/Monitoring/tree/main/PySSH)   | Detecta el servicio SSH  |
+|  [Ping Discover](https://github.com/Mr-r00t11/Monitoring/tree/main/Ping_Discover) | Detecta si el servidor responde ICMP  |
+| [Socket Alive](https://github.com/Mr-r00t11/Monitoring/tree/main/Socket-Alive) | Detecta cualquier puerto  |
