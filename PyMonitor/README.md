@@ -57,3 +57,5 @@ Cuando esta el servidor se encuentra no disponible, se cambiara a color rojo.
 
 ![](https://github.com/Mr-r00t11/Monitoring/blob/main/PyMonitor/pymonitor%20down.png)
 ___
+
+*Por metodos de seguridad, el codigo se encuentra oculto, son proyectos desarrollados para el monitoreo de servidores. o equipos de Forescout.*
