@@ -18,4 +18,4 @@ ___
 | [PyMonitor](https://github.com/Mr-r00t11/Monitoring/tree/main/PyMonitor)  | Detecta el servicio HTTP  |
 | [PySSH](https://github.com/Mr-r00t11/Monitoring/tree/main/PySSH)   | Detecta el servicio SSH  |
 |  [Ping Discover](https://github.com/Mr-r00t11/Monitoring/tree/main/Ping_Discover) | Detecta si el servidor responde ICMP  |
-| [Socket Alive](https://github.com/Mr-r00t11/Monitoring/tree/main/Socket-Alive) | Detecta cualquier puerto  |
+| [Socket Alive](https://github.com/Mr-r00t11/Monitoring/tree/main/Socket%20Alive) | Detecta cualquier puerto  |
